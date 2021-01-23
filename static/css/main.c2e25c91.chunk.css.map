@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","Tabs.css"],"names":[],"mappings":"AAAA,QACE,iBACF,CCFA,WACE,qBAAuB,CACvB,YACF","file":"main.c2e25c91.chunk.css","sourcesContent":[".header {\n  text-align: center;\n}\n",".tab__text {\n  border: solid black 1px;\n  height: 200px;\n}\n"]}
